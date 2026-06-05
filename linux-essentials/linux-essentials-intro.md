@@ -1,4 +1,4 @@
-# Linux Essentials – Introduction
+# Linux Essentials - Introduction
 
 ## Introduction
 Linux is an open-source operating system based on Unix principles, created by Linus Torvalds in 1991. It provides a free, stable, and secure environment for developers and enthusiasts. Its open-source nature allows anyone to view, modify, and distribute the source code.
@@ -45,8 +45,8 @@ Linux combined with GNU tools creates a fully functional OS emphasizing free sof
 ### Differences Between Linux and Other OS
 Linux is open-source, highly customizable, and community-supported, unlike Windows or macOS, which are proprietary.
 
-### TUX Penguin – Linux Symbol
-TUX, the penguin mascot, represents Linux’s friendly, approachable, and community-driven nature.
+### TUX Penguin - Linux Symbol
+TUX, the penguin mascot, represents Linux's friendly, approachable, and community-driven nature.
 
 ### Creating a Complete Linux-Based OS
 Combining the Linux kernel, GNU tools, libraries, and applications produces a fully functional Linux OS.
@@ -56,7 +56,7 @@ A specialized Linux distribution for penetration testing, cybersecurity, and eth
 
 ---
 
-## Chapter 02 – Software Licensing and Open Source
+## Chapter 02 - Software Licensing and Open Source
 
 ### Software Licenses
 Legal agreements defining how software can be used, modified, and distributed. They protect both developers and users by specifying rights and restrictions.
@@ -75,5 +75,7 @@ Describes how Creative Commons licenses manage the sharing, adaptation, and dist
 
 ### Practical Applications
 Highlights real-world use of open-source licenses in business, including models for monetizing open-source software through support, customization, and services.
+
+---
 
 This structure demonstrates your understanding of Linux fundamentals, open-source philosophy, and software licensing, making it GitHub- and resume-ready.
