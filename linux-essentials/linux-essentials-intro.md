@@ -1,8 +1,8 @@
-Linux Essentials - Theory Notes
+Linux Essentials - Personal Theory Notes
 
 Introduction to Linux
 
-The Linux kernel is an open-source Unix-like kernel created by Linus Torvalds in 1991. Combined with GNU utilities, user-space software, libraries, package managers, and applications, it forms a complete Linux operating system.
+The Linux kernel is an open-source Unix-like kernel created by Linus Torvalds in 1991. When combined with GNU utilities, user-space software, libraries, package managers, and applications, it forms a complete Linux operating system.
 
 Over the years, Linux has become one of the most important technologies in modern computing, powering servers, cloud infrastructure, embedded devices, supercomputers, and mobile platforms such as Android.
 
@@ -217,6 +217,6 @@ Package managers simplify software deployment, automatically manage dependencies
 
 Conclusion
 
-Through Linux Essentials, I gained a foundational understanding of Linux operating systems, kernel architecture, open-source software, software licensing, Linux distributions, server technologies, networking concepts, system initialization, and package management.
+Through studying Linux Essentials, I developed a foundational understanding of Linux operating systems, kernel architecture, open-source software, software licensing, Linux distributions, server technologies, networking concepts, system initialization, and package management.
 
-These topics establish the technical foundation required for further studies in networking, system administration, cybersecurity, penetration testing, and cloud technologies.
+These concepts provide a strong technical foundation for further studies in networking, system administration, cybersecurity, penetration testing, and cloud technologies.
