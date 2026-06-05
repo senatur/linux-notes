@@ -89,3 +89,23 @@ Combining the Linux kernel, GNU tools, libraries, and desktop or server applicat
 ## What is Kali Linux?
 
 Kali Linux is a specialized Linux distribution designed for penetration testing, cybersecurity, and ethical hacking. It includes hundreds of pre-installed tools for security testing, digital forensics, and network analysis. Kali Linux is widely used by security professionals and enthusiasts to identify vulnerabilities and improve system security.
+
+
+
+## – Software Licensing and Open Source
+
+This chapter provides a comprehensive overview of software licenses and open-source principles. Key takeaways include:
+
+- **Software Licenses:** Legal agreements that define how software can be used, modified, and distributed. They protect both developers and users by specifying usage rights and restrictions.
+
+- **Open Source vs Proprietary Licenses:** Open-source licenses allow modification, redistribution, and collaboration, while proprietary licenses restrict access and control.
+
+- **Free Software Foundation (FSF) & GPL:** Explains the philosophy of free software, emphasizing user freedoms, and how the GNU General Public License (GPL) enforces these rights.
+
+- **Open Source Initiative (OSI):** Defines open-source principles and identifies the standards software must meet to be considered open source.
+
+- **Creative Commons:** Covers how Creative Commons licenses manage the sharing, adaptation, and distribution of content.
+
+- **Practical Applications:** Highlights real-world use of open-source licenses in business, including models for monetizing open-source software through support, customization, and services.
+
+This knowledge demonstrates an understanding of legal, ethical, and practical aspects of software distribution, making it relevant for careers in software development, cybersecurity, and IT management.
