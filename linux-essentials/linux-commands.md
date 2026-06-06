@@ -1,10 +1,11 @@
 Linux Commands Reference
 
-This document contains the Linux commands I learned and practiced during my Linux Essentials study. Each command includes a short explanation and a basic usage example.
+This file contains Linux commands I practiced during my Linux Essentials learning path.
+Each command includes a short explanation and a basic example.
 
 ---
 
-1. System Information Commands
+System Information Commands
 
 "uname -a"
 
@@ -44,7 +45,7 @@ sudo gparted
 
 ---
 
-2. File and Directory Management Commands
+File and Directory Management Commands
 
 "pwd"
 
@@ -96,7 +97,7 @@ exit
 
 ---
 
-3. Virtual Terminal Commands
+Virtual Terminal Commands
 
 "Ctrl + Alt + F1"
 
@@ -108,7 +109,7 @@ Often returns to the graphical desktop environment on older Linux systems. On mo
 
 ---
 
-4. Networking Commands
+Networking Commands
 
 "ping"
 
@@ -130,7 +131,7 @@ ip a
 
 ---
 
-5. Environment Variable Commands
+Environment Variable Commands
 
 "echo $PATH"
 
@@ -160,7 +161,7 @@ Common administrator command paths:
 
 ---
 
-6. Command Information and Help
+Command Information and Help
 
 "type"
 
@@ -176,7 +177,7 @@ man ls
 
 ---
 
-7. Process Management Commands
+Process Management Commands
 
 "bg"
 
@@ -192,7 +193,7 @@ firefox &
 
 ---
 
-8. Command History
+Command History
 
 "history"
 
